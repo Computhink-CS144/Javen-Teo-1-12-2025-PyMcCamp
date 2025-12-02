@@ -13,8 +13,8 @@ print("hello from day2")
 name = "Javen".upper()
 for letter in name:
 
-    print("Give me a " + letter + "!!!")
-    
+    print("Give me a " + letter + "!")
+
 print("Who is the best???!?")
 print(name + "!!!!!")
 
