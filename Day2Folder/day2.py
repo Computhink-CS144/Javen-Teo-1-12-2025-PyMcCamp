@@ -13,7 +13,7 @@ print("hello from day2")
 name = "Javen"
 for letter in name:
     print("Give me a " + letter + "!!!")
-    print("")
+    print("Who is the")
 
 ########################################################################
 # Task 3:
