@@ -32,13 +32,15 @@ for count in range(1,11):
 
 ########################################################################
 # Task 5:
-for count in range(5. ):
+for count in range(5, 32):
     print(count)
 
 
 
 ########################################################################
 # Task 6:
+for count in range(50, 0, -1):
+    print(count)
 
 
 
