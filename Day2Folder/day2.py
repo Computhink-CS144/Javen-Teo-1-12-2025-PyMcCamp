@@ -10,7 +10,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 2:
-name = "Javen" upper()
+name = "Javen".upper()
 for letter in name:
     print("Give me a " + letter + "!!!")
     print("Who is the best???!?")
