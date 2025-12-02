@@ -52,7 +52,7 @@ for count in range(0, 10):
     print(count)
 for count in range(7,32):
     print(count)
-for count in range(1,11):
+for count in range(65, 99):
     print(count)
 for count in range(1,11):
     print(count)
