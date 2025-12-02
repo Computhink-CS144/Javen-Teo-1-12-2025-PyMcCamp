@@ -46,5 +46,5 @@ for count in range(50, 0, -1):
 
 ########################################################################
 # Additional exercises:
-for count in range(1,11):
+for count in range(0,11):
     print(count)
