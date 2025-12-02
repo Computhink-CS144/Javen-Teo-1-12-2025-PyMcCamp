@@ -48,11 +48,11 @@ for count in range(50, 0, -1):
 # Additional exercises:
 for count in range(0,66):
     print(count)
-for count in range(0, 10):
+for count in range(0, 11):
     print(count)
-for count in range(7,32):
+for count in range(7,33):
     print(count)
-for count in range(65, 99):
+for count in range(65, 100):
     print(count)
 for count in range(1,11):
     print(count)
