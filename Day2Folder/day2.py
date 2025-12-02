@@ -4,8 +4,8 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-for count in range(100):
-    print("I like playing Minecraft")
+#for count in range(100):
+    #print("I like playing Minecraft")
 
 
 ########################################################################
