@@ -50,3 +50,5 @@ for count in range(0,66):
     print(count)
 for count in range(0, 100):
     print(count)
+for count in range(1,11):
+    print(count)
