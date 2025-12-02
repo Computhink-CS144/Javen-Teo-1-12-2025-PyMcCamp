@@ -12,7 +12,7 @@ print("hello from day2")
 # Task 2:
 name = "Javen"
 for letter in name:
-    print("")
+    print("Give me a " + letter)
 
 
 ########################################################################
