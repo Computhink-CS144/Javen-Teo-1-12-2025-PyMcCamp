@@ -4,7 +4,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-for count in range(2):
+for count in range(10):
     print("I like playing Minecraft")
 
 
