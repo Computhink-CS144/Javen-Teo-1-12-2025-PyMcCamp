@@ -7,7 +7,7 @@ print("hello from day2")
 for count in range(100):
     print("I like playing Minecraft")
 
-    
+
 ########################################################################
 # Task 2:
 
