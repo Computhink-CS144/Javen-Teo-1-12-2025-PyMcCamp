@@ -46,6 +46,9 @@ for count in range(50, 0, -1):
 
 ########################################################################
 # Additional exercises:
+for count in range(10 ,-1, -1):
+    print(count)
+print("Happy New Year")
 for count in range(0,67):
     print(count)
 for count in range(0, 11):
