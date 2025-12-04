@@ -26,7 +26,7 @@ answer = "fingers"
 while riddle != answer:
     riddle = input("I will repeat it again. Five brothers born at the same time, each with a different name.")
     counter+= 1
-print("You are correct")
+print("You are correct. ")
 
 
 
