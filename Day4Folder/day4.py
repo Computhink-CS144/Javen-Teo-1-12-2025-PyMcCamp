@@ -4,16 +4,18 @@ print("hello from day4")
 
 ########################################################################
 # Task 1:
-counter= 0
-while counter < 10:
-    print(counter)
-    counter+= 1
-print("---------------------------")
-count = 5
-while count < 33:
-    print(count)
-    count += 1
-
+# counter= 0
+# while counter < 10:
+#     print(counter)
+#     counter+= 1
+# print("---------------------------")
+# count = 5
+# while count < 33:
+#     print(count)
+#     count += 1
+num = 50
+while num > 0:
+    
 
 
 
