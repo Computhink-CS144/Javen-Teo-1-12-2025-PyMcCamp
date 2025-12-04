@@ -10,13 +10,13 @@ while counter < 10:
     counter+= 1
 print("---------------------------")
 count = 5
-while count < 32:
+while count < 33:
     print(count)
     count += 1
 
 
 
-    
+
 ########################################################################
 # Task 2:
 
