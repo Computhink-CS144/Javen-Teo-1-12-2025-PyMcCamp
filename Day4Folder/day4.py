@@ -22,7 +22,7 @@ while num > 0:
 # Task 2:
 
 riddle = int(input("five brothers born at the same time, each with a different name."))
-answer = "fingers"
+answer = ()"fingers")
 while riddle != answer:
     print(riddle)
 
