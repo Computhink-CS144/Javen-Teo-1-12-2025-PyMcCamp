@@ -21,11 +21,11 @@ while num > 0:
 ########################################################################
 # Task 2:
 
-riddle = input("five brothers born at the same time, each with a different name.")
+riddle = input("Five brothers born at the same time, each with a different name.")
 answer = "fingers"
 while riddle != answer:
     riddle = input("I will repeat it again. Five brothers born at the same time, each with a different name.")
-print("correct")
+print("You are correct")
 
 
 
