@@ -24,7 +24,7 @@ while num > 0:
 riddle = input("five brothers born at the same time, each with a different name.")
 answer = "fingers"
 while riddle != answer:
-    riddle = input("five brothers born at the same time, each with a different name.")
+    riddle = input("I five brothers born at the same time, each with a different name.")
 print("correct")
 
 
