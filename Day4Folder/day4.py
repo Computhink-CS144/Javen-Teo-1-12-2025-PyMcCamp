@@ -13,10 +13,10 @@ print("hello from day4")
 # while count < 33:
 #     print(count)
 #     count += 1
-num = 50
-while num > 0:
-    print(num)
-    num += -1
+# num = 50
+# while num > 0:
+#     print(num)
+    # num += -1
 
 ########################################################################
 # Task 2:
