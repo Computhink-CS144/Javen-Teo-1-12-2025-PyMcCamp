@@ -20,7 +20,7 @@ while num > 0:
 
 ########################################################################
 # Task 2:
-
+counter = 1
 riddle = input("Five brothers born at the same time, each with a different name.")
 answer = "fingers"
 while riddle != answer:
