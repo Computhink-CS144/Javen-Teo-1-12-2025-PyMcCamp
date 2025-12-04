@@ -26,7 +26,7 @@ answer = "fingers"
 while riddle != answer:
     riddle = input("I will repeat it again. Five brothers born at the same time, each with a different name.")
     counter+= 1
-print("You are correct. But you took " + str(counter) + " trieclear"s brfore getting it right")
+print("You are correct. But you took " + str(counter) + " tries before getting it right")
 
 
 
