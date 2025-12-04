@@ -25,7 +25,7 @@ riddle = input("five brothers born at the same time, each with a different name.
 answer = "fingers"
 while riddle != answer:
     print(riddle)
-
+    riddle += 1
 
 
 
